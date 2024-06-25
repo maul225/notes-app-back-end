@@ -1,0 +1,16 @@
+{
+    "env": {
+      "commonjs": true,
+      "es2024": true,
+      "node": true
+    },
+    "extends" : [
+      "airbnb-base"
+    ],
+    "rules": {
+      "no-console": "off"
+    },
+    "parserOptions": {
+        "ecmaVersion": 12
+    }
+  }
